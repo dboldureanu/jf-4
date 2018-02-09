@@ -4,8 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 	    // Each of you got a number. Make sure that line number prints your name. Update that line only!
-        System.out.println("7");
-        System.out.println("8");
+        System.out.println("Darii Olea");
+        System.out.println("Prutean Jack");
         System.out.println("9");
         System.out.println("10");
         System.out.println("11");
