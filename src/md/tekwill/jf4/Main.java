@@ -6,16 +6,14 @@ public class Main {
 	    // Each of you got a number. Make sure that line number prints your name. Update that line only!
         System.out.println("7");
         System.out.println("8");
-        System.out.println("Janas");
+        System.out.println("Jana");
         System.out.println("10");
         System.out.println("11");
-<<<<<<< HEAD
-        System.out.println("12");
-        System.out.println("Sergiu");
-=======
+
+
         System.out.println("Alexei");
         System.out.println("13");
->>>>>>> f643ecf539a21f4d3c6d18c7956c08b8ed48391d
+
         System.out.println("14");
         System.out.println("Victor Luca");
         System.out.println("16");
